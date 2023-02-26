@@ -9,7 +9,7 @@
 
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Its-star-boi"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈-blue"></a>
+  <a href="https://github.com/XcuteboyX"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Its-star-boi/StringGenBot?style=social)](https://github.com/Its-star-boi/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/Its-star-boi/StringGenBot?style=social)](https://github.com/Its-star-boi/StringGenBot/fork)
@@ -56,7 +56,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://github.com/Its-star-boi)
+- » [ᴀɴᴜᴊ](https://github.com/XcuteboyX)
 - » [Shivang](https://github.com/ShivangKakkar)
 - » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
