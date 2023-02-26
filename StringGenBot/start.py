@@ -17,14 +17,14 @@ async def start(bot: Client, msg: Message):
 Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ᴀɴᴜᴊ 😎](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://t.me/Best_FriendsFor_Ever"),
+                    InlineKeyboardButton("❣️ ᴀɴᴜᴊ ❣️", url="https://t.me/ITS_CUTE_BABU"),
                     InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
                 ]
             ]
