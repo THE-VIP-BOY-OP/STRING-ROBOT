@@ -21,7 +21,7 @@ app = Client(
 
 
 if __name__ == "__main__":
-    print("Starting the String Generator Bot...")
+    print("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐒𝐭𝐫𝐢𝐧𝐠 𝐁𝐨𝐭...")
     try:
         app.start()
     except (ApiIdInvalid, ApiIdPublishedFlood):
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
-    print(f"@{uname} started successfully !")
+    print(f"@{uname} 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐒𝐔𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘. 𝐌𝐀𝐃𝐄 𝐁𝐘 @𝗧𝗛𝗘_𝗩𝗜𝗣_𝗕𝗢𝗬 🤗")
     idle()
     app.stop()
-    print("Bot stopped. Bye !")
+    print("𝗕𝗢𝗧 𝗦𝗧𝗢𝗣𝗣𝗘𝗗 𝗕𝗬 𝗕𝗬 !")
