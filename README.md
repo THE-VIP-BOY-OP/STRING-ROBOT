@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/4a965d62670bf1c228639.jpg" alt="StringGen">
+  <img src="https://graph.org/file/e57c645dc8161de9f21dd.jpg" alt="StringGen">
 
  
 ### 🤤 ғᴇᴀᴛᴜʀᴇs
@@ -11,13 +11,13 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/STRING-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/STRING-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/VIP_STRING_ROBOT)
+  [s 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🍑](https://telegram.me/CYBERDAXXX)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
