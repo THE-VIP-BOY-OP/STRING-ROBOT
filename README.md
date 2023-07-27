@@ -17,7 +17,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [s 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🍑](https://telegram.me/CYBERDAXXX)
+  [ 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🍑](https://telegram.me/CYBERDAXXX)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
