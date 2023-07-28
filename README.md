@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/e57c645dc8161de9f21dd.jpg" alt="StringGen">
+  <img src="https://graph.org/file/18b1d816ea9c7995dc489.jpg" alt="StringGen">
 
  
 ### 🤤 ғᴇᴀᴛᴜʀᴇs
@@ -11,7 +11,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/STRING-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/STRING-ROBOT"> <img src="https://graph.org/file/d1018753d9a85f46c2fe4.jpg" width="520" height="138.45"/></a></p>
 
 
 
