@@ -19,15 +19,15 @@ async def start(bot: Client, msg: Message):
 𝐅𝐔𝐋𝐋𝐘 𝐒𝐀𝐅𝐄 & 𝐒𝐄𝐂𝐔𝐑𝐄.
 𝐍𝐎 𝐀𝐌𝐘 𝐄𝐑𝐑𝐎𝐑.
 
-𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝐓𝐇𝐄 𝐕𝐈𝐏 𝐁𝐎𝐘](tg://user?id={OWNER_ID}) !""",
+𝐌𝐚𝐝𝐞 𝐁𝐲  : [🦅⃤𓆩𝛅 ⋏ ι 𝚳 <🥀/>𓆩❤️𓆪 ﹛🇨🇦﹜](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="⚡𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆⚡", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ❣️", url="https://t.me/Tg_Friendss"),
-                    InlineKeyboardButton("🥀 𝐎𝐟𝐟𝐢𝐜𝐞 🥀", url="https://t.me/VIP_CREATORS")
+                    InlineKeyboardButton("❣️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ❣️", url="https://t.me/vanshika_support"),
+                    InlineKeyboardButton("🥀 𝐎𝐟𝐟𝐢𝐜𝐞 🥀", url="https://t.me/vanshi_support")
                 ]
             ]
         ),
