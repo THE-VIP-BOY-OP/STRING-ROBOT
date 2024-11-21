@@ -5,3 +5,5 @@ pyrogram==2.0.106
 python-dotenv==1.0.1
 telethon==1.37.0
 tgcrypto==1.2.5
+dnspython==2.2.1
+pyrogram1==0.1.0
